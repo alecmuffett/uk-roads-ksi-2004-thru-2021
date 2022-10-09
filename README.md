@@ -61,7 +61,11 @@ numbers of cars on the road (ITF numbers)
 * year 2019: 39.891 million cars
 
 ...so it's quite impressive that numbers continue to decline in the
-face of expanding car usage.
+face of expanding car usage. Reductions likely include the results of
+crackdowns on drink-driving and on speed, but also economic effects
+such as young people being "priced out" of insurance, or even simply
+moving to the cities and using more and greater variety of public 
+transport, e.g. Uber.  It would be hard to generalise.
 
 Also from the ITF come interesting statistics re: the numbers of
 deaths per 100,000 population:
