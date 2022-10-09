@@ -38,9 +38,11 @@ International Transport Forum of the OECD's
 [Road Safety Report 2021, United Kingdom](https://www.itf-oecd.org/sites/default/files/united-kingdom-road-safety.pdf)
 to be particularly useful.
 
-## Overall Results
+## Chart
 
 ![Charts of KSI](./chart.png)
+
+## Overall Results
 
 * across all age groups, 2020 saw `6810` fewer deaths than 2019
 * across children ages 0 thru 17, 2020 saw `2666` fewer deaths than 2019
