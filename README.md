@@ -77,6 +77,7 @@ deaths per 100,000 population:
 
 ...which are fairly comparable to
 [national rates for homicide](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/appendixtableshomicideinenglandandwales),
+averaged for all genders:
 
 * year ending March 2000: 1.29 homicide deaths per 100k
 * year ending March 2010: 1.07 homicide deaths per 100k
