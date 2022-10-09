@@ -81,6 +81,8 @@ deaths per 100,000 population:
 
 ## For Discussion
 
-If it's possible to save considerably more than 2000 children from
-being killed or seriously injured each year, why not re-impose
-national lockdowns to achieve that goal?
+After a considerable period of "plateau" in improvements for child
+protection on the roads, if it's possible to save considerably more
+than 2000 children (and nearly 7000 people overall) from being killed
+or seriously injured each year, why *not* re-impose national lockdowns
+to achieve that goal?
