@@ -44,8 +44,8 @@ to be particularly useful.
 
 ## Overall Results
 
-* across all age groups, 2020 saw `6810` fewer deaths than 2019
-* across children ages 0 thru 17, 2020 saw `2666` fewer deaths than 2019
+* across all age groups, 2020 saw `6810` fewer KSI than 2019
+* across children ages 0 thru 17, 2020 saw `2666` fewer KSI than 2019
 
 Per the ITF-OECD report:
 
